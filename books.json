@@ -1,0 +1,18 @@
+[
+  {
+    "titolo": "Il bastardo degli Dèi",
+    "autore": "Milena Rao",
+    "categoria": "Narrativa",
+    "copertina": "img/copertine/bastardo-degli-dei.jpg",
+    "descrizione": "Un romanzo tra mitologia e teologia, dove i confini tra luce e ombra si dissolvono.",
+    "amazon": "https://www.amazon.it/dp/XXXXXXXXXX"
+  },
+  {
+    "titolo": "L’orchidea straordinaria",
+    "autore": "H. G. Wells",
+    "categoria": "Fantascienza",
+    "copertina": "img/copertine/orchidea.jpg",
+    "descrizione": "Un racconto inquietante di botanica esotica e perversione della natura.",
+    "amazon": "https://www.amazon.it/dp/YYYYYYYYYY"
+  }
+]
